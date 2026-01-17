@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghassyaa-kai7fiq/assets/banner.svg" alt="Kai Syafiq Banner" />
+  <img src="https://raw.githubusercontent.com/ghassyaa-kai7fiq/banner.svg" alt="Kai Syafiq Banner" />
 </p>
 
 ---
