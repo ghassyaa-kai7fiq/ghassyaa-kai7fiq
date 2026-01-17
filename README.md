@@ -1,5 +1,4 @@
 
-
 <!--
 **ghassyaa-kai7fiq/ghassyaa-kai7fiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,21 +14,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- BANNER -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ghassyaa-kai7fiq/profile/ghassyaa-kai7fiq/main/assets/banner.svg"
-    alt="Kai Syafiq GitHub Banner"
-  />
+  <img src="https://raw.githubusercontent.com/ghassyaa-kai7fiq/assets/banner.svg" alt="Kai Syafiq Banner" />
 </p>
 
 ---
 
-### 👋 Hi, I'm Kai Syafiq
+### 👋 Hi, I’m Kai Syafiq
 
-Mahasiswa **Sekolah Vokasi IPB** yang belajar **Software Engineering**,  
-antusias di **AI Engineering** dan **Cybersecurity**,  
-dengan pendekatan **analitis dan problem-solving**.
+Saya mahasiswa **Sekolah Vokasi IPB** yang belajar **Software Engineering**,  
+dengan ketertarikan pada **AI Engineering** dan **Cybersecurity**.  
+Saya suka pendekatan **analitis** dan problem-solving.
 
 ---
 
-🔗 *Learning by building. Improving step by step.*
+### 🎯 Current Focus
+- 🔐 Cybersecurity fundamentals  
+- 🤖 AI engineering (Python, ML basics)  
+- 🌐 Front-End (HTML, CSS, SVG animation)  
+
+---
+
+### 🛠 Tools & Tech
+- HTML, CSS  
+- Python  
+- Git & GitHub  
+- Linux  
+
+---
+
+### 📌 Notes
+> *Learning by building. Improving step by step.*
