@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 ### 👋 Hi, I’m Kai Syafiq
 
-Saya mahasiswa **Sekolah Vokasi IPB** yang belajar **Software Engineering**,  
-dengan ketertarikan pada **AI Engineering** dan **Cybersecurity**.  
-Saya suka pendekatan **analitis** dan problem-solving.
+I am a student at **IPB Vocational School** studying **Software Engineering**, with an interest in **AI Engineering** and **Cybersecurity**. 
+I enjoy an **analytical** approach and problem-solving. I am eager to learn new things, and so far, besides studying Web Development or technology-related fields, I have also learned about Finance/Stocks, Copywriting, Any langguange, and Workout. My Hobbies is Reading a book & Trying something new.
 
 ---
 
@@ -41,8 +40,10 @@ Saya suka pendekatan **analitis** dan problem-solving.
 - Python  
 - Git & GitHub  
 - Linux  
+- VSCode
 
 ---
 
-### 📌 Notes
-> *Learning by building. Improving step by step.*
+### 📌 Motivation
+> Let's Discuss Any..
+> *Analitics the problem, Learning by building Foundation. Improving step by step.*
