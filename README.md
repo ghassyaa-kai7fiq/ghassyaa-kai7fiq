@@ -45,6 +45,6 @@ I enjoy an **Analytical** approach and problem-solving. I am eager to learn new 
 
 ---
 
-### 📌 Motivation
+### 📌 Notes & Motivation
 > Let's Discuss Any..
 > *Analitics the problem, Learning by building Foundation. Improving step by step.*
