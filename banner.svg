@@ -1,0 +1,191 @@
+<svg
+  width="854"
+  height="260"
+  viewBox="0 0 1000 260"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <!-- ================= DEFINITIONS ================= -->
+  <defs>
+    <!-- Scanline glitch mask -->
+    <clipPath id="scanline">
+      <rect x="0" y="0" width="1000" height="14">
+        <animate
+          attributeName="y"
+          values="0;240;0"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- ================= BACKGROUND ================= -->
+  <image
+    href="bg-landing.jpeg"
+    x="0"
+    y="0"
+    width="1000"
+    height="260"
+    preserveAspectRatio="xMidYMid slice"
+  />
+
+  <!-- Dark overlay -->
+  <rect width="1000" height="260" fill="rgba(0,0,0,0.45)" />
+
+  <!-- ================= TITLE BASE ================= -->
+  <text x="500" y="150"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="42"
+        letter-spacing="3"
+        fill="#e5e7eb">
+    KAI SYAFIQ
+  </text>
+
+  <!-- ===== TITLE (STATIC + GLITCH HALUS) ===== -->
+  <text x="500" y="150"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="42"
+        letter-spacing="3"
+        fill="#e7e8e9ff">
+    KAI SYAFIQ
+  </text>
+
+  <text x="500" y="150"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="42"
+        letter-spacing="3"
+        fill="#080808ff">
+    KAI SYAFIQ
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="-2 0;2 0;-2 0"
+      dur="0.2s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0;0.6;0"
+      dur="0.2s"
+      repeatCount="indefinite"/>
+  </text>
+
+
+  <!-- ================= TITLE GLITCH (RGB SCANLINE) ================= -->
+  <text x="500" y="150"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="42"
+        fill="#60a5fa"
+        clip-path="url(#scanline)"
+        opacity="0.6">
+    KAI SYAFIQ
+  </text>
+
+  <text x="500" y="150"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="42"
+        fill="#22c55e"
+        clip-path="url(#scanline)"
+        opacity="0.45">
+    KAI SYAFIQ
+  </text>
+
+  <text x="500" y="150"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="42"
+        fill="#ef4444"
+        clip-path="url(#scanline)"
+        opacity="0.25">
+    KAI SYAFIQ
+  </text>
+
+  <text x="500" y="150"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="42"
+        fill="#f8fafc"
+        clip-path="url(#scanline)"
+        opacity="0.2">
+    KAI SYAFIQ
+  </text>
+
+
+
+  <!-- ================= ROLE 1 ================= -->
+  <text x="500" y="190"
+        text-anchor="middle"
+        font-family="monospace"
+        font-style="italic"
+        font-size="13"
+        fill="#e5e7eb"
+        opacity="0"
+        transform-origin="500px 190px"
+        transform-box="fill-box">
+    Software Engineering Student · SV IPB
+    <animate attributeName="opacity"
+      values="0;1;1;0;0"
+      keyTimes="0;0.05;0.25;0.3;1"
+      dur="20s"
+      repeatCount="indefinite"/>
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      values="1;1.08;1;1"
+      keyTimes="0;0.12;0.25;1"
+      dur="20s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <!-- ================= ROLE 2 ================= -->
+  <text x="500" y="190"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="20"
+        fill="#e5e7eb"
+        opacity="0"
+        transform-origin="500px 190px"
+        transform-box="fill-box">
+    AI &amp; Cybersecurity Enthusiast
+    <animate attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.32;0.36;0.56;0.6;1"
+      dur="20s"
+      repeatCount="indefinite"/>
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      values="1;1;1.08;1.08;1;1"
+      keyTimes="0;0.32;0.36;0.56;0.6;1"
+      dur="20s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <!-- ================= ROLE 3 ================= -->
+  <text x="500" y="190"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="20"
+        fill="#e5e7eb"
+        opacity="0"
+        transform-origin="500px 190px"
+        transform-box="fill-box">
+    Analytical Thinker &amp; Problem Solver
+    <animate attributeName="opacity"
+      values="0;0;0;1;1;0;0"
+      keyTimes="0;0.6;0.64;0.82;0.86;1;1"
+      dur="20s"
+      repeatCount="indefinite"/>
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      values="1;1;1;1.08;1.08;1;1"
+      keyTimes="0;0.6;0.64;0.82;0.86;1;1"
+      dur="20s"
+      repeatCount="indefinite"/>
+  </text>
+
+</svg>

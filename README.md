@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghassyaa-kai7fiq/assets/banner.svg" alt="Kai Syafiq Banner" />
+  <img src="https://raw.githubusercontent.com/ghassyaa-kai7fiq/banner.svg" alt="Kai Syafiq Banner" />
 </p>
 
 ---
@@ -26,6 +27,9 @@ Here are some ideas to get you started:
 Saya mahasiswa **Sekolah Vokasi IPB** yang belajar **Software Engineering**,  
 dengan ketertarikan pada **AI Engineering** dan **Cybersecurity**.  
 Saya suka pendekatan **analitis** dan problem-solving.
+I am a student at **IPB Vocational School** studying **Software Engineering**, with an interest in **AI Engineering** and **Cybersecurity**. 
+
+I enjoy an **Analytical** approach and problem-solving. I am eager to learn new things, and so far, besides studying Web Development or technology-related fields, I have also learned about Finance/Stocks, Copywriting, Any langguange, and Workout. My Hobbies is Reading a book & Trying something new.
 
 ---
 
@@ -46,3 +50,10 @@ Saya suka pendekatan **analitis** dan problem-solving.
 
 ### 📌 Notes
 > *Learning by building. Improving step by step.*
+- VSCode
+
+---
+
+### 📌 Notes & Motivation
+> Let's Discuss Any..
+> *Analitics the problem, Learning by building Foundation. Improving step by step.*
