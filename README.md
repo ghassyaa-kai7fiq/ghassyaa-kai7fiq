@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghassyaa-kai7fiq/banner.svg" alt="Kai Syafiq Banner" />
+  ![My SVG](https://raw.githubusercontent.com/ghassyaa-kai7fiq/ghassyaa-kai7fiq/main/your-file.svg)
 </p>
 
 ---
